@@ -7,9 +7,9 @@ This is my first project from The Odin Project Foundations course.
 - How to structure a basic multi-page website using HTML.
 - How to create and link multiple HTML files.
 - How to use semantic HTML elements correctly.
-- That list elements (<li>) can contain other elements such as:
-  - <strong>
-  - <p>
+- That list elements ('<li>') can contain other elements such as:
+  - '<strong>'
+  - '<p>'
   - headings
 - How to improve readability by refactoring heading tags into <strong> within list items.
 - How to use Git for:
